@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Pizzaria/static/css/main.ddab7f90.css",
-    "main.js": "/Pizzaria/static/js/main.f0be031a.js",
+    "main.js": "/Pizzaria/static/js/main.dd1a0ea9.js",
     "index.html": "/Pizzaria/index.html",
     "main.ddab7f90.css.map": "/Pizzaria/static/css/main.ddab7f90.css.map",
-    "main.f0be031a.js.map": "/Pizzaria/static/js/main.f0be031a.js.map"
+    "main.dd1a0ea9.js.map": "/Pizzaria/static/js/main.dd1a0ea9.js.map"
   },
   "entrypoints": [
     "static/css/main.ddab7f90.css",
-    "static/js/main.f0be031a.js"
+    "static/js/main.dd1a0ea9.js"
   ]
 }
