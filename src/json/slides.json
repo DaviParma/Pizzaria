@@ -1,0 +1,40 @@
+[
+    {
+      "id": 1,
+      "img": "frenchfries.jpg",
+      "name": "French fries",
+      "description": "French fries",
+      "price_portion": "1,65€ portion"
+    },
+  
+    {
+      "id": 2,
+      "img": "whiterice.jpeg",
+      "name": "White rice",
+      "description": "White rice",
+      "price_portion": "1,85€ portion"  
+    },
+  
+    {
+      "id": 3,
+      "img": "olives.jpeg",
+      "name": "Olives",
+      "description": "Olives",
+      "price_portion": "1,25€ portion"
+    },
+  
+    {
+      "id": 4,
+      "img": "tropicalsalad.jpg",
+      "name": "Tropical salad",
+      "description": "Tropical salad",
+      "price_portion": "1,90€"
+    }
+  
+  
+  
+  
+  ]
+  
+  
+  

@@ -1,0 +1,48 @@
+[
+    {
+      "id": 1,
+      "img": "peperoni.jpeg",
+      "name": "Peperoni",
+      "description": "Tomato, Mozzarella, Pepperoni, Mushrooms, Olives and Oregano.",
+      "price_sm": "8,40€",
+      "price_md": "11,45€",
+      "price_lg": "20,75€"
+    },
+
+    {
+      "id": 2,
+      "img": "portuguese.png",
+      "name": "Portuguese",
+      "description": "Tomato, mozzarella, meat, pineapple olives and oregano.",
+      "price_sm": "7,70€",
+      "price_md": "10,95€",
+      "price_lg": "20,20€"
+    },
+
+    {
+      "id": 3,
+      "img": "tropical.jpg",
+      "name": "Tropical",
+      "description": "Tomato, Mozzarella, Mango, Peach, Banana, Pineapple, Cream, Olives and Oregano",
+      "price_sm": "7,60€",
+      "price_md": "11,15€",
+      "price_lg": "20,50€"
+    },
+
+    {
+      "id": 4,
+      "img": "vegan.jpeg",
+      "name": "Vegan",
+      "description": "Tomato, Mozzarella, Mushrooms, Pineapple, Corn and Oregano",
+      "price_sm": "7,70€",
+      "price_md": "10,95€",
+      "price_lg": "20,20€"
+    }
+
+
+  
+
+
+]
+
+

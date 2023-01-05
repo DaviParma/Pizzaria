@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "img": "pespi.jpg",
+      "name": "Pespi",
+      "description": "1L, 1,5L can",
+      "price_sm": "1,65€",
+      "price_md": "2,565€"
+    },
+
+    {
+      "id": 2,
+      "img": "fanta.png",
+      "name": "Fanta",
+      "description": "1L, 1,5L can",
+      "price_sm": "1,65€",
+      "price_md": "2,65€"
+    },
+
+    {
+      "id": 3,
+      "img": "cocacola.jpeg",
+      "name": "Coca-Cola",
+      "description": "1L, 1,5L can",
+      "price_sm": "1,65€",
+      "price_md": "2,65€"
+    },
+
+    {
+      "id": 4,
+      "img": "nestea.jpg",
+      "name": "Nestea",
+      "description": "1L, 1,5L can",
+      "price_sm": "1,65€",
+      "price_md": "2,55€"
+    }
+
+
+  
+
+
+]
+
+
