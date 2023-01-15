@@ -21,5 +21,8 @@ Example of a website about a store of pizzas.
   <li>npm start</li>
 </ol>
 
+## Figma project
+https://www.figma.com/file/09yVPoR90DsaU37ILzENjl/Pizzaria?node-id=0%3A1&t=H18lWFfOL5ublJND-1
+
 ## Demo
 https://daviparma.github.io/Pizzaria
